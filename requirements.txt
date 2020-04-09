@@ -1,0 +1,9 @@
+tensorflow==1.14
+imutils
+numpy
+pillow
+lxml
+jupyter
+matplotlib
+opencv-python
+cython
